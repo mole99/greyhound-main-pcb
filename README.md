@@ -11,7 +11,7 @@ It is based on the [TinyTapeout Demo Board](https://github.com/TinyTapeout/tt-de
 
 The PCB was designed with KiCad version 9.0.
 
-Check out the project in your browser using KiCanvas: [Greyhound Breakout PCB](https://kicanvas.org/?github=https://github.com/mole99/greyhound-main-pcb/blob/main/greyhound-main-pcb.kicad_pro)
+Check out the project in your browser using KiCanvas: [Greyhound Main PCB](https://kicanvas.org/?github=https://github.com/mole99/greyhound-main-pcb/blob/main/greyhound-main-pcb.kicad_pro)
 
 # License
 
