@@ -14974,7 +14974,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6147817"
+		(property "LCSC" "C22373932"
 			(at 179.07 251.46 0)
 			(effects
 				(font
@@ -15558,7 +15558,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6147817"
+		(property "LCSC" "C22373932"
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -20110,7 +20110,7 @@
 		(at 180.34 143.51 0)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "558512f5-8dfd-4d6c-aeb3-d54727f2ceb3")
@@ -22530,7 +22530,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6147817"
+		(property "LCSC" "C22373932"
 			(at 40.64 251.46 0)
 			(effects
 				(font
@@ -22831,7 +22831,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6147817"
+		(property "LCSC" "C22373932"
 			(at 86.36 251.46 0)
 			(effects
 				(font
@@ -23247,7 +23247,7 @@
 		(at 317.5 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7c8a4452-4cf0-40df-b256-e2e0f418463a")
@@ -27239,7 +27239,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFBM1V1608-121-R"
+		(property "MPN" "BLM18PG121SN1D"
 			(at 161.29 31.75 90)
 			(effects
 				(font
@@ -27266,7 +27266,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2649119"
+		(property "LCSC" "C14709"
 			(at 161.29 31.75 0)
 			(effects
 				(font
@@ -31508,7 +31508,7 @@
 		(at 120.65 140.97 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
