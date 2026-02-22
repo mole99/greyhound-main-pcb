@@ -10,7 +10,7 @@
 	(title_block
 		(title "Greyhound Main Board")
 		(date "2025-02-11")
-		(rev "1.0.0")
+		(rev "1.0.1")
 		(company "Psychogenic Technologies")
 		(comment 1 "(C) 2025 Pat Deegan")
 		(comment 2 "(C) Leo Moser")
